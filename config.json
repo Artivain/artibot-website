@@ -1,0 +1,23 @@
+{
+	"baseURL": "https://artibot.artivain.com",
+	"title": "Artibot",
+	"theme": "artibot",
+	"author": {
+		"name": "Artivain",
+		"website": "https://artivain.com"
+	},
+	"languages": {
+		"en": {
+			"contentDir": "content/en",
+			"languageName": "English"
+		},
+		"fr": {
+			"contentDir": "content/fr",
+			"languageName": "Français"
+		}
+	},
+	"params": {
+		"pygmentsCodeFences": true,
+		"pygmentsUseClasses": true
+	}
+}
