@@ -18,6 +18,7 @@
 	},
 	"params": {
 		"pygmentsCodeFences": true,
-		"pygmentsUseClasses": true
+		"pygmentsUseClasses": true,
+		"logo": "https://assets.artivain.com/fav/bots/artibot.svg"
 	}
 }
