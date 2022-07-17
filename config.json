@@ -16,9 +16,9 @@
 			"languageName": "Français"
 		}
 	},
+	"pygmentsCodeFences": true,
+	"pygmentsUseClasses": true,
 	"params": {
-		"pygmentsCodeFences": true,
-		"pygmentsUseClasses": true,
 		"logo": "https://assets.artivain.com/fav/bots/artibot.svg"
 	}
 }
