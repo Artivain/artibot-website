@@ -9,11 +9,44 @@
 	"languages": {
 		"en": {
 			"contentDir": "content/en",
-			"languageName": "English"
+			"languageName": "English",
+			"menu": {
+				"main": [
+					{
+						"name": "Home",
+						"url": "/",
+						"weight": 10
+					},
+					{
+						"name": "Documentation",
+						"url": "https://docs-artibot.artivain.com"
+					},
+					{
+						"name": "Guide",
+						"url": "/guide"
+					}
+				]
+			}
 		},
 		"fr": {
 			"contentDir": "content/fr",
-			"languageName": "Français"
+			"languageName": "Français",
+			"menu": {
+				"main": [
+					{
+						"name": "Accueil",
+						"url": "/fr"
+					},
+					{
+						"name": "Documentation",
+						"url": "https://docs-artibot.artivain.com"
+					},
+					{
+						"name": "Guide",
+						"url": "/fr/guide"
+					}
+				]
+			}
 		}
 	},
 	"pygmentsCodeFences": true,

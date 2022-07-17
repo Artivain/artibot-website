@@ -118,7 +118,7 @@ artibot.login({ token: "token de bot Discord: https://discord.com/developers/app
 Aussi simple que ça!
 
 Certains modules peuvent avoir une configuration (facultative ou obligatoire, au choix du développeur).
-Prenons par exemple le module Welcome, qui a une configuration assez complexe:
+Prenons par exemple le module [Welcome](#), qui a une configuration assez complexe:
 ```bash
 npm i artibot-welcome
 ```
