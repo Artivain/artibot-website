@@ -4,7 +4,12 @@
 	"theme": "artibot",
 	"author": {
 		"name": "Artivain",
-		"website": "https://artivain.com"
+		"website": "https://artivain.com",
+		"github": "Artivain",
+		"instagram": "artivain",
+		"email": "info@artivain.com",
+		"paypal": "artivain",
+		"discord": "3cWzJFbu7A"
 	},
 	"languages": {
 		"en": {
@@ -15,17 +20,37 @@
 					{
 						"name": "Home",
 						"url": "/",
-						"weight": 10
+						"weight": 1
 					},
 					{
 						"name": "Documentation",
-						"url": "https://docs-artibot.artivain.com"
+						"url": "https://docs-artibot.artivain.com",
+						"weight": 2
 					},
 					{
 						"name": "Guide",
-						"url": "/guide"
+						"url": "/guide",
+						"weight": 3
+					},
+					{
+						"name": "Plugins",
+						"url": "/plugins",
+						"weight": 4
+					},
+					{
+						"name": "Posts",
+						"url": "/posts",
+						"weight": 5
+					},
+					{
+						"name": "Changelog",
+						"url": "/changelog",
+						"weight": 6
 					}
 				]
+			},
+			"params": {
+				"subtitle": "Powerful and modular Discord bot framework"
 			}
 		},
 		"fr": {
@@ -35,23 +60,46 @@
 				"main": [
 					{
 						"name": "Accueil",
-						"url": "/fr"
+						"url": "/fr",
+						"weight": 1
 					},
 					{
 						"name": "Documentation",
-						"url": "https://docs-artibot.artivain.com"
+						"url": "https://docs-artibot.artivain.com",
+						"weight": 2
 					},
 					{
 						"name": "Guide",
-						"url": "/fr/guide"
+						"url": "/fr/guide",
+						"weight": 3
+					},
+					{
+						"name": "Plugins",
+						"url": "/fr/plugins",
+						"weight": 4
+					},
+					{
+						"name": "Articles",
+						"url": "/fr/posts",
+						"weight": 5
+					},
+					{
+						"name": "Notes de version",
+						"url": "/fr/changelog",
+						"weight": 10
 					}
 				]
+			},
+			"params": {
+				"subtitle": "Framework pour bot Discord puissant et modulaire"
 			}
 		}
 	},
 	"pygmentsCodeFences": true,
 	"pygmentsUseClasses": true,
 	"params": {
-		"logo": "https://assets.artivain.com/fav/bots/artibot.svg"
+		"favicon": "https://assets.artivain.com/fav/bots/artibot.svg",
+		"logo": "https://assets.artivain.com/fav/bots/artibot.svg",
+		"mainSections": ["changelog", "post"]
 	}
 }
