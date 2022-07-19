@@ -8,4 +8,5 @@ image: ""
 tags: []
 package: "artibot-"
 github: "https://github.com/"
+docs: "https://docs.plugin.com"
 ---

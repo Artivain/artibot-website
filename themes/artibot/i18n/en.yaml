@@ -72,3 +72,17 @@
 # Related posts
 - id: seeAlso
   translation: "See also"
+
+# Custom Artibot
+- id: author
+  translation: "Author"
+- id: learn-more
+  translation: "Learn more"
+- id: install
+  translation: "Install with NPM"
+- id: view-on-github
+  translation: "View on GitHub"
+- id: view-docs
+  translation: "View documentation"
+- id: view-on-npm
+  translation: "View on NPM"

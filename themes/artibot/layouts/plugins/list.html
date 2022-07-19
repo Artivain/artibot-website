@@ -9,7 +9,7 @@
         {{ end }}
         <div class="posts-list">
           {{ range .Paginator.Pages }}
-            {{ partial "post_preview.html" .}}
+            {{ partial "plugin_preview.html" .}}
           {{ end }}
         </div>
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
