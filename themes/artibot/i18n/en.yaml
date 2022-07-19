@@ -86,3 +86,7 @@
   translation: "View documentation"
 - id: view-on-npm
   translation: "View on NPM"
+- id: next-plugin
+  translation: "Next plugin"
+- id: previous-plugin
+  translation: "Previous plugin"
