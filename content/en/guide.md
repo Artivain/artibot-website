@@ -8,8 +8,8 @@ subtitle: "Simplified documentation to learn how to use this framework"
 ## Table of Contents
 1. [How it works?](#how-it-works)
 	1. [Prerequisites](#prerequisites)
-	2. [Créer son bot](#créer-son-bot)
-	3. [Les plugins](#les-plugins)
+	2. [Create your bot](#create-your-bot)
+	3. [Plugins](#plugins)
 
 ## How it works?
 
