@@ -30,7 +30,7 @@ Installez le core du Artibot:
 npm i artibot
 ```
 
-Nous vous recommandons aussi nodemon pour faciliter le développement de votre bot:
+Nous vous recommandons aussi [nodemon](https://nodemon.io/) pour faciliter le développement de votre bot:
 ```bash
 npm i nodemon --save-dev
 ```
@@ -90,7 +90,7 @@ Plusieurs plugins open-source sont disponibles, vous pouvez donc les installer e
 
 Vous pouvez aussi développer vos propres plugins pour personnaliser votre bot et même les publier par la suite si vous le voulez!
 
-Prenons par exemple le plugin [Giveaways](#), disponible pour tous et très simple à utiliser.
+Prenons par exemple le plugin [Giveaways](/fr/plugins/giveaways/), disponible pour tous et très simple à utiliser.
 
 Installez-le comme vous feriez avec n'importe quel module NPM:
 ```bash
@@ -119,7 +119,7 @@ artibot.login({ token: "token de bot Discord: https://discord.com/developers/app
 Aussi simple que ça!
 
 Certains modules peuvent avoir une configuration (facultative ou obligatoire, au choix du développeur).
-Prenons par exemple le module [Welcome](#), qui a une configuration assez complexe:
+Prenons par exemple le module [Welcome](/fr/plugins/welcome/), qui a une configuration assez complexe:
 ```bash
 npm i artibot-welcome
 ```
