@@ -90,7 +90,7 @@ Several open-source plugins are available, so you can easily install and use the
 
 You can also develop your own plugins to customize your bot and even publish them afterwards if you want!
 
-Take for example the [Giveaways](/en/plugins/giveaways/) plugin, available to everyone and very easy to use.
+Take for example the [Giveaways](/plugins/giveaways/) plugin, available to everyone and very easy to use.
 
 Install it as you would any NPM module:
 ```bash
@@ -119,7 +119,7 @@ artibot.login({ token: "your bot token: https://discord.com/developers/applicati
 As simple as that!
 
 Some modules can have a configuration (optional or mandatory, developer's choice).
-Take for example the [Welcome](/en/plugins/welcome/) module, which has quite a complex configuration:
+Take for example the [Welcome](/plugins/welcome/) module, which has quite a complex configuration:
 ```bash
 npm i artibot-welcome
 ```
