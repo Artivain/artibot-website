@@ -946,3 +946,12 @@ h4.see-also {
 	margin-top: 3rem;
 	margin-bottom: 2rem;
 }
+
+#plugin-badges {
+	margin-bottom: 20px;
+}
+
+#plugin-badges img {
+	margin: 2px 0;
+	display: inline;
+}

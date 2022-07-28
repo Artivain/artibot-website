@@ -90,3 +90,9 @@
   translation: "Next plugin"
 - id: previous-plugin
   translation: "Previous plugin"
+- id: downloads
+  translation: "Downloads"
+- id: latest-version
+  translation: "Latest version"
+- id: license
+  translation: License

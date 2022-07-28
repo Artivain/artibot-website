@@ -92,3 +92,9 @@
   translation: "Plugin suivant"
 - id: previous-plugin
   translation: "Plugin précédent"
+- id: downloads
+  translation: "Téléchargements"
+- id: latest-version
+  translation: "Dernière version"
+- id: license
+  translation: "Licence"

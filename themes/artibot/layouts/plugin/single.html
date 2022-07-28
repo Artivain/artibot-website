@@ -4,6 +4,14 @@
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			<article role="main" class="blog-post">
 
+				<div id="plugin-badges">
+					<img alt="npm" src="https://img.shields.io/npm/v/{{ .Params.package }}?label={{ i18n "latest-version" }}&style=for-the-badge">
+					<img alt="npm (prod) dependency version" src="https://img.shields.io/npm/dependency-version/{{ .Params.package }}/artibot?style=for-the-badge">
+					<br>
+					<img alt="npm" src="https://img.shields.io/npm/dm/{{ .Params.package }}?label={{ i18n "downloads" }}&logo=npm&style=for-the-badge">
+					<img alt="NPM" src="https://img.shields.io/npm/l/{{ .Params.package }}?label={{ i18n "license" }}&style=for-the-badge">
+				</div>
+
 				<strong id="author">
 					{{ i18n "author" }}: {{ .Params.author }}
 				</strong>
