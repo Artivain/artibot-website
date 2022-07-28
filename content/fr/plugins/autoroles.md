@@ -1,6 +1,6 @@
 ---
 title: "Auto roles"
-author: ""
+author: "GoudronViande24"
 type: "plugin"
 date: 2022-07-19T18:18:59-04:00
 subtitle: "Donner des rôles à des utilisateurs automatiquement"
