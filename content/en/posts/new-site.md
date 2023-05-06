@@ -33,7 +33,7 @@ In big updates, we will also have some updating guides to avoid breaking your bo
 
 ## Changelog
 The changelog was posted only on GitHub. We will now post it on both GitHub and the website.
-There will probably have more explaination on the website and links to guide on how to update if there is breaking changes.
+There will probably have more explanation on the website and links to guide on how to update if there is breaking changes.
 
 ## Plugin marketplace
 **The most important of all: the plugin "marketplace"!**
